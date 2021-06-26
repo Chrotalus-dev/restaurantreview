@@ -1,0 +1,16 @@
+{
+  "name": "restaruantreview",
+  "version": "1.0.0",
+  "description": "This will be a dynamic app for restaurant reviews for DigitalCrafts bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julio Moreno",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pg-promise": "^10.10.2"
+  }
+}
